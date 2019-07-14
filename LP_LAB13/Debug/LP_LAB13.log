@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Error.cpp
+  FST.cpp
+h:\lp_lab13\lp_lab13\fst.cpp(68): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+h:\lp_lab13\lp_lab13\fst.cpp(82): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  In.cpp
+  Log.cpp
+  LPLAB13.cpp
+  Out.cpp
+  Parm.cpp
+  Создание кода...
+  LP_LAB13.vcxproj -> H:\LP_LAB13\Debug\LP_LAB13.exe
